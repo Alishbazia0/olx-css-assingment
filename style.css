@@ -1,0 +1,169 @@
+@media (max-width:1200px) {
+body{
+        flex-wrap:wrap;
+        display: block;
+        width: 100%;
+        
+}
+}
+   
+   
+   
+   
+   .logo{
+       width: 80px;
+       padding: 0;
+       margin: 0;
+       box-sizing: border-box;
+       
+   
+   }
+   .navbar{
+       padding: 8px;
+       display: flex;
+       align-items: center;
+       background-color: rgb(240, 238, 232);
+       
+   }
+   nav{
+       flex: 1;
+       text-align: left;
+       margin: 6px;
+       padding: 0;
+   
+   
+   }
+   /* ul{
+       display: inline-block;
+       list-style-type: none;
+   }
+   li{
+       display: flex;
+       margin: 10px;
+   } */
+   
+   
+       
+       
+   
+       
+   
+    a{
+        text-decoration: none;
+        color: black;
+       
+        
+    }
+   
+   
+   .container{
+       max-width: 1500px;
+       margin: 10px;
+       padding: 5px 18px;
+       flex-wrap: wrap;
+   }
+   .search-box{
+      position:absolute;
+      top: 90px;
+      right:  550px;
+      border-radius: 400px; 
+      size: 50px; 
+   
+   } 
+   
+   
+   .flexcontainer{
+       display: flex;
+       height: 20;
+       flex-wrap: wrap;
+   
+   }
+   .flexitem{
+       background-color: white;
+       border: 2px solid white;
+       margin: 20px;
+       width: 100px;
+   
+   
+   }
+   .container01{
+       width: 900px;
+       max-width: 100%;
+       margin: 0 auto;
+   
+   }
+   .row{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+   }
+   .card{
+       background: rgb(241, 241, 247);
+   }
+   .container02{
+       width: 900px;
+       max-width: 100%;
+       margin: 0 auto;
+   
+   }
+   .row1{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+   }
+   .card{
+       background: rgb(241, 241, 247);
+   }
+   .container03{
+       width: 900px;
+       max-width: 100%;
+       margin: 0 auto;
+   
+   }
+   .row2{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+   }
+   .card{
+       background: rgb(241, 241, 247);
+   }
+   .container04{
+       width: 900px;
+       max-width: 100%;
+       margin: 0 auto;
+   
+   }
+   .row3{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+   }
+   .card{
+       background: rgb(241, 241, 247);
+   } 
+   .container05{
+       width: 1000px;
+       max-width: 1100%;
+       margin: 50px ;
+       list-style-type: none;
+       background: whitesmoke;
+       align-content: center;
+       
+       
+   }
+   li{
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   
+   }
+   h4{
+       justify-content: space-evenly;
+   }
+   
+    
+
+
+
+   
